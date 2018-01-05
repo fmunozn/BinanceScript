@@ -48,7 +48,7 @@
     /* Ejemplo: {'name':'BNB', 'price':0.0009495} */
     /* Además, deberás tener un valor visible de BTC/USDT en pantalla si quieres usar la calculadora, ya sea añadiendo la moneda a favoritos y teniendo este tab seleccionado, o seleccionando un tab que la contenga (los de la parte de arriba a la derecha).
     /*********************************************/
-    var coinPrices = [{'name':'LTC', 'price':0.016020},{'name':'BNB', 'price':0.00063196},{'name':'IOTA', 'price':0.00027079},{'name':'XLM', 'price':0.00005601},{'name':'TRX', 'price':0.00000330}];
+    var coinPrices = [{'name':'LTC', 'price':0.016020},{'name':'BNB', 'price':0.00063196},{'name':'IOTA', 'price':0.00027079},{'name':'XLM', 'price':0.000051386},{'name':'TRX', 'price':0.00000330}];
     //Cambia este valor si quieres que se refresque cada mas o menos tiempo. Tiempo actual, 3000 milisegundos (3 segundos).
     var refreshTime = 3000;
     var lossAlert = -10;
